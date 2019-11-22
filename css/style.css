@@ -1,0 +1,100 @@
+@import url("components/text-jstfy.css");
+@import url("components/text-center.css");
+@import url("components/education.css");
+@import url("components/main.css");
+@import url("components/experiences.css");
+@import url("components/echelle.css");
+@import url("components/job.css");
+@import url("components/img-job.css");
+@import url("components/projet.css");
+@import url("components/button.css");
+
+
+.container{
+	background-color: white;
+	margin-left: 40px;
+	margin-right: 40px;
+	height: 100em;
+}
+hr{
+	margin-bottom: 90px;
+}
+
+.avatar{
+	width: 300px;
+	border-radius: 50%;
+	border:3px solid #0078d7;
+	margin: 20px;
+	float: left;
+
+}
+p{
+	background-color: green;
+	color: green;
+    margin-top: 0px;
+    height: 20px;
+}
+}
+
+body{
+	margin: 0px;
+	background-color: rgb(230,230,230);
+}
+
+h1{
+	margin-right: 30px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 80px;
+	margin-top: 0px;
+	padding-top: 10%;
+	padding-left: 30px;
+	font-weight: lighter;
+}
+
+h3{
+	font-weight: lighter;
+	font-family: 'Source Sans Pro', sans-serif;
+	margin-bottom: 5px;
+	margin-top: 0px;
+}
+
+h2{
+	color:white;
+	background-color: #010038;
+	width: 150px;
+	margin: auto;
+	margin-bottom:15px;
+	margin-top: 30px;
+	border-radius: 10px;
+	box-shadow: 0px 0px 20px rgba(200,200,200,1);
+	padding: 5px;
+}
+
+h4{
+	color: #537ec5;
+	font-size: 20px;
+}
+
+.barre{
+	background-color: #d8d8d8;
+    display: flex;
+    width: 180px;
+    height: 20px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+h5{
+	margin-right: 2px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover{
+	color: #d8d8d8;
+}

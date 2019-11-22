@@ -1,0 +1,24 @@
+.projet{
+	background-color:white;
+	margin-left: 10px;	
+	width: 400px;
+	padding: 15px;
+	box-shadow: 0px 0px 20px rgba(150,150,150,1);
+	border-radius: 10px;
+	margin-top: 50px;
+}
+
+.projet h2{
+	width: 200px;
+	padding: 8px;
+	padding-left: 14px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.projet a{
+	color: white;
+}
+
+.projet a:hover{
+	color: black;
+}
